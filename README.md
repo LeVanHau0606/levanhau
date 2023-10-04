@@ -4,5 +4,5 @@
 - MSSV:2121110347
 - Lớp:CCQ2111J
 - Tên đề tài: Xây dựng website bán quần áo nam
-- Công nghệ:Javasript,Java,HTML,CSS,…
+- Công nghệ:Laravel,Javasript,Java,HTML,CSS,…
 - Kế hoạch thực hiện: Làm giao diện trang product
